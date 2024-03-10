@@ -1,4 +1,4 @@
-Sure, here are the steps in detail:
+
 
 1. **Download the Project**: Begin by downloading the project files from the provided source. This typically involves visiting a website or repository where the project is hosted and downloading the files as a compressed archive (such as a .zip file).
 
