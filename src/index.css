@@ -1,0 +1,161 @@
+* {
+  font-family: "Quicksand", sans-serif;
+}
+body {
+  background: linear-gradient(60deg, #ff0076, #00b3cc);
+}
+.App {
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 0.5%;
+}
+.Navbarstyle {
+  margin-bottom: 3%;
+  display: flex;
+  width: 100%;
+  height: 26px;
+  padding: 2%;
+  align-items: center;
+  border-bottom: 1.5px solid black;
+  border-top: 1.5px solid #e4c1c1;
+  border-radius: 10px;
+  font-size: 22px;
+  /*background-color: azure;*/
+}
+
+.Navbarstyle h1 {
+  color: #f4d970;
+  /*border: 1.5px solid #e4c1c1;*/
+}
+
+.links {
+  margin-left: auto;
+  display: flex;
+  /*border: 1.5px solid #e4c1c1;*/
+}
+
+.links a {
+  color: black;
+  flex-grow: 1;
+  flex-basis: 420;
+  margin-right: 10%;
+  border-radius: 10%;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background-color: #ff0076;
+  color: black;
+}
+
+.blogpreview {
+  margin: 0.8%;
+  margin-left: 2%;
+  padding: 1%;
+  border-bottom: 1.8px solid #bfadad;
+  border-top: 1.8px solid #bfadad;
+  border-right: 1.8px solid black;
+  border-left: 1.8px solid black;
+  border-radius: 10px;
+  display: flex;
+  /*background-color: azure;*/
+  box-shadow: 0px 0px 8px 0px red;
+}
+
+/*
+.blogpreview:hover{
+  box-shadow: 1px 3px 5px #bfadad;
+}*/
+.blogpreview1 h2 {
+  font-size: 20px;
+  color: #afffef;
+}
+.blogpreview1 h4 {
+  color: black;
+}
+
+.blogpreview1 {
+  flex-grow: 1;
+  flex-basis: 200;
+}
+
+.blogpreview1 a {
+  text-decoration: none;
+}
+.blogpreview2 {
+  -ms-flex-align: center;
+  -ms-flex-line-pack: center;
+}
+.blogpreview2 button {
+  border-radius: 12px;
+  border-bottom: 2.8px solid black;
+  border-top: 2.8px solid black;
+  height: 50px;
+  width: 200px;
+  margin-top: 4%;
+  font-size: 18px;
+  background-color: rgb(0, 229, 255);
+  color: black;
+  cursor: pointer;
+  box-shadow: 0px 0px 4px 0px #222327;
+}
+
+.Blog-details {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 18px;
+  color: #34d9b7;
+}
+.Blog-details h1 {
+  color: black;
+}
+
+.Blog-details button {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 5%;
+  color: black;
+  font-size: 25px;
+  font-weight: 100px;
+  border: 2px solid #ff5e8e;
+  border-radius: 4px;
+  background-color: rgb(0, 229, 255);
+}
+
+.Create {
+  margin-top: 6%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.Create input {
+  width: 80%;
+  height: 30px;
+  margin: 2%;
+  margin-left: 10%;
+  color: black;
+  border: 2px solid #f1356d;
+  border-radius: 4px;
+}
+
+.Create h4 {
+  width: 80%;
+  font-weight: 30px;
+  margin: 1%;
+  margin-left: 10%;
+  color: #34d9b7;
+  font-size: 22px;
+}
+
+.Create button {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 5%;
+  color: black;
+  font-size: 25px;
+  font-weight: 100px;
+  border: 2px solid #ff5e8e;
+  border-radius: 4px;
+  background-color: rgb(0, 229, 255);
+}

@@ -1,0 +1,22 @@
+{
+  "Blogs": [
+    {
+      "title": "my new website",
+      "body": "Note that the development build is not optimized To create a production build use npm run build",
+      "author": "shubham",
+      "id": 1
+    },
+    {
+      "title": "Rohan new website",
+      " body": "sNote that the development build is not optimized To create a production build use npm run build.",
+      "author": "rohan",
+      "id": 2
+    },
+    {
+      "title": "Raj new website",
+      " body": "sNote that the development build is not optimized To create a production build use npm run build",
+      " author": "raj",
+      "id": 3
+    }
+  ]
+}

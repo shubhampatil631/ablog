@@ -1,0 +1,22 @@
+{
+  "Blogs": [
+    {
+      "id": "7a8d",
+      "title": "How to Build a Chat application with ReactJS, Socket.IO and NodeJS?",
+      "body": "You have seen what we are building. Let’s see a high-level overview of the development flow.  1. Server Side We will deal with the server-side first. Install all the dependencies concerned with the back-end. Establish socket connection at server-side. getRoom API for room ID 2. Client-Side On the client-side, after creating the client application, install its dependencies. Establish basic socket connection at client-side. Add socket listeners. Build front-end components for UI.",
+      "author": "Archita Nayak"
+    },
+    {
+      "id": "b323",
+      "title": "Top 7 Full Stack Development Trends to Follow",
+      "body": "1. Artificial Intelligence AI has started to become a necessity for modern businesses. Artificial Intelligence is the power of machines/software to think and make decisions like the human mind. AI helps entrepreneurs to automate their business processes and succeed quickly in the competition of the software market.<br>2. IoT The world has become a network of interconnected devices and thanks to the Internet of Things for such achievement. As per a study, 127 new devices are connected to the internet every second, and that’s the reason why industry experts entitled IoT as the Industrial Revolution 4.0.3. Blockchain Blockchain is a master technology that holds every potential under its umbrella, ranging from security, distribution, speed, transparency, and immutability. Industries like healthcare, finance, banking, ERP, and more hold immense opportunities with this emerging technology trend.4. AR/VR Augmented reality and Virtual reality, together known as Mixed reality, is the future of what we see in front of our screens. This new tech-trend has winged our imagination to an outstanding height. AR/VR connects human perception with computers, machines, and neighboring environments. Varied possibilities come to life as we merge the mixed reality into our lives.5. Language Trends Full-stack developers most-prominently use the most popular and trending development languages because of their adaptability by hybrid apps. For example, Javascript, the most popular programming language. If you want to avoid any fall-backs of troubles in the future, you should choose the wisest technology with extensive community support.6. Low Code Development Web Development with minimal coding is the most alluring thing in the world today. Low code development enables developers to build an interactive website by dragging and dropping individual components on the model logic. As you expect the low code development standards, your clients understand your project very effectively.7. IT Outsourcing In the digital world, outsourcing is starting to become the new normal. Adding it to the pandemic and the obvious work from home practice by the IT employees, IT outsourcing is being accepted by most of the big companies. It is also beneficial for entrepreneurs like yourself to outsource a project than to hire internal developers.",
+      "author": "Paridhi Wadhwani"
+    },
+    {
+      "id": "84b5",
+      "title": "Full stack developer",
+      "body": "Full stack web development integrates both front-end and back-end technologies, requiring proficiency in HTML, CSS, JavaScript, and server-side languages like Node.js or Python. Front-end expertise involves crafting responsive user interfaces with frameworks like React or Angular. Meanwhile, back-end skills encompass database management, server logic, and API development. DevOps practices, including version control with Git and continuous integration, enhance workflow efficiency. Continuous learning is vital in this rapidly evolving field, enabling developers to adapt to new technologies and industry trends. Mastering full stack development empowers professionals to build robust, scalable web solutions and deliver exceptional user experiences. Embark on your journey to mastery, embracing challenges and opportunities for growth along the way.",
+      "author": "Shubham patil"
+    }
+  ]
+}
